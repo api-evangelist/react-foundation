@@ -1,0 +1,44 @@
+aid: react-foundation
+name: React Foundation
+description: >-
+  The React Foundation is a Linux Foundation project announced in February 2026 that supports React, React Native, and supporting components after Meta contributed the React project to the Linux Foundation. It ensures the continued development and governance of the React ecosystem.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - JavaScript
+  - Frontend
+  - Web
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/react-foundation/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: react-foundation:react-foundation-api
+    name: React Foundation API
+    description: >-
+      Programmatic access to React Foundation project resources, React ecosystem tools, and frontend development APIs.
+    humanURL: https://react.dev/
+    tags:
+  - JavaScript
+  - Frontend
+  - Web
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://react.dev/
+common:
+  - type: Documentation
+    name: React Foundation Documentation
+    description: Official documentation for React Foundation.
+    url: https://react.dev/
+  - type: GitHubOrg
+    name: React Foundation GitHub
+    description: Source code and repositories for React Foundation.
+    url: https://github.com/facebook/react
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
