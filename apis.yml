@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JavaScript
   - Frontend
-  - Web
+  - JavaScript
   - Linux Foundation
+  - Web
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,10 +23,10 @@ apis:
       Programmatic access to React Foundation project resources, React ecosystem tools, and frontend development APIs.
     humanURL: https://react.dev/
     tags:
-      - JavaScript
       - Frontend
-      - Web
+      - JavaScript
       - Linux Foundation
+      - Web
     properties:
       - type: Documentation
         url: https://react.dev/
