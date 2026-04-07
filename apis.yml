@@ -23,10 +23,10 @@ apis:
       Programmatic access to React Foundation project resources, React ecosystem tools, and frontend development APIs.
     humanURL: https://react.dev/
     tags:
-  - JavaScript
-  - Frontend
-  - Web
-  - Linux Foundation
+      - JavaScript
+      - Frontend
+      - Web
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://react.dev/
