@@ -1,0 +1,13 @@
+{
+  "repo": "react-foundation",
+  "feeds": [
+    {
+      "source": "https://react.dev/blog",
+      "feed_url": "https://react.dev/rss.xml",
+      "saved": 10,
+      "title": "React Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:34:24Z"
+}
