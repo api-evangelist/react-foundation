@@ -46,6 +46,8 @@ common:
     name: React Blog
     description: Official announcements and engineering posts from the React team.
     url: https://react.dev/blog
+  - type: LLMsTxt
+    url: https://react.dev/llms.txt
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
