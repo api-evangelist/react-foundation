@@ -2,8 +2,11 @@
   "repo": "react-foundation",
   "feeds": [
     {
-      "source": "https://react.dev/feed.xml",
-      "error": "HTTPError"
+      "source": "https://react.dev/blog",
+      "feed_url": "https://react.dev/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     },
     {
       "source": "https://github.com/facebook/react-native",
@@ -14,5 +17,5 @@
     }
   ],
   "post_count": 27,
-  "fetched": "2026-06-01T23:35:02Z"
+  "fetched": "2026-06-14T20:42:17Z"
 }
