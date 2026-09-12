@@ -55,6 +55,8 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Website
+    url: https://www.react.dev/
   - type: Documentation
     name: React Documentation
     description: Official React documentation site.
