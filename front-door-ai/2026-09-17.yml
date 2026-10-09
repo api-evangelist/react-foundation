@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: www.react.dev
   final_host: react.dev
-  ownership: inherited
+  ownership: own
   owner: react-foundation
   shares_host_with: null
-  inherited_from: react.dev
+  inherited_from: null
+  alias_of: react.dev
   verdict: scored
-  score: null
+  score: 1
+  band: 2
+  band_label: trace
   host_score: 1
-  density: null
+  density: 0.93
   words: 1075
   tiers:
     agentic: 0
